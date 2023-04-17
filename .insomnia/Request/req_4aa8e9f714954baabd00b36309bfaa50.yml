@@ -1,0 +1,30 @@
+_id: req_4aa8e9f714954baabd00b36309bfaa50
+type: Request
+parentId: wrk_2b68397578854a99aadf8630534a081d
+modified: 1681758150362
+created: 1681758113992
+url: localhost:8080/cliente
+name: Create client
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "nome": "Mickey",
+        "idade": 63,
+        "id": "2"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1681758113992
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

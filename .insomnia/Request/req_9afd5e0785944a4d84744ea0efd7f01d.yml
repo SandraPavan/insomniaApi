@@ -1,0 +1,21 @@
+_id: req_9afd5e0785944a4d84744ea0efd7f01d
+type: Request
+parentId: wrk_2b68397578854a99aadf8630534a081d
+modified: 1681760186046
+created: 1681760154213
+url: localhost:8080/cliente/2
+name: Client Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1681760154213
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
